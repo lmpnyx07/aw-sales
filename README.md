@@ -1,4 +1,4 @@
-# Adventure Works Sales
+# Adventure Works Sales Project
 
 The purpose of the project is to show the overall sales performance at Adventure Works over the span of two and a half years.
 
