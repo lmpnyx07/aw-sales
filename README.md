@@ -59,4 +59,4 @@ If we select "F" (Female) in the donut chart called "Orders by Gender", we can s
   
 Overall, we can see that Mr. Maurice Shan is our top customer overall and top male customer with only 6 orders made over time totaling $12.4 thousand in revenue.
 
-Using this information, we may find the products that best increase our sales as well as what we put our efforts to focus on.
+Using this information, we may find the products that best increase our sales as well as what we put our efforts to focus on such as marketing, top customers, top selling products, and etc.
